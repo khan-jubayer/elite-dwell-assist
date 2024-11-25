@@ -1,0 +1,835 @@
+{
+  "maid": [
+    {
+      "id": "1",
+      "name": "Halima khatun",
+      "email": "halima@gmail.com",
+      "pass": "halima123",
+      "phone": "01456170233",
+      "img": "/images/maid/1.jpg",
+      "experience": "2 year",
+      "role": "maid",
+      "task": [
+        "mopping",
+        "cooking",
+        "cloth_washing",
+        "sweeping",
+        "dish_washing"
+      ],
+      "salary": ["1000", "2000", "1500", "500", "1500"],
+      "availability": [
+        "08.00 AM - 11.00 AM",
+        "02.00 PM - 05.00 PM",
+        "05.00 PM - 08.00 PM"
+      ],
+      "location": ["Dhanmondi", "Mohammadpur"],
+      "nid_no": "1234567890111",
+      "address": "16/3,banani 12,Dhaka",
+      "dob": "1995-05-20",
+      "gender": "female",
+      "education": "SSC pass"
+    },
+    {
+      "id": "2",
+      "name": "lima khatun",
+      "email": "lima@gmail.com",
+      "pass": "lima123",
+      "phone": "01757259623",
+      "img": "/images/maid/2.jpg",
+      "role": "maid",
+      "experience": "3 year",
+      "task": ["mopping", "cloth_washing", "sweeping", "dish_washing"],
+      "salary": ["1000", "1500", "800", "1500"],
+      "availability": ["08.00 AM - 11.00 AM", "05.00 PM - 08.00 PM"],
+      "location": ["Mirpur"],
+      "nid_no": "5678967890111",
+      "address": "116/3, shewrapara,mirpur 10,Dhaka",
+      "dob": "1990-05-20",
+      "gender": "female",
+      "education": "SSC pass"
+    },
+    {
+      "id": "3",
+      "name": "rabeya roy",
+      "email": "rabeya@gmail.com",
+      "pass": "rabeya123",
+      "phone": "01678170233",
+      "img": "/images/maid/3.jpg",
+      "role": "maid",
+      "experience": "1 year",
+      "task": ["cloth_washing", "dish_washing"],
+      "salary": ["1500", "1500"],
+      "availability": ["08.00 AM - 11.00 AM"],
+      "location": ["Motijheel"],
+      "nid_no": "1014567890111",
+      "address": "116/3, motijheel 13,Dhaka",
+      "dob": "1995-05-20",
+      "gender": "female",
+      "education": "SSC pass"
+    },
+    {
+      "id": "4",
+      "name": "afia ara",
+      "email": "afia@gmail.com",
+      "pass": "afia123",
+      "phone": "01965170233",
+      "img": "/images/maid/4.jpg",
+      "role": "maid",
+      "experience": "4 year",
+      "task": ["cooking"],
+      "salary": ["4000"],
+      "availability": ["08.00 AM - 11.00 AM"],
+      "location": ["Gulshan", "Banani"],
+      "nid_no": "1234567890123",
+      "address": "116/3, banani 14,Dhaka",
+      "dob": "1995-05-20",
+      "gender": "female",
+      "education": "SSC pass"
+    },
+    {
+      "id": "5",
+      "name": "sara saba",
+      "email": "sara@gmail.com",
+      "pass": "sara123",
+      "phone": "01301495769",
+      "role": "maid",
+      "img": "/images/maid/5.jpg",
+      "experience": "4 year",
+      "task": ["mopping", "cloth_washing", "sweeping", "dish_washing"],
+      "salary": ["1000", "1000", "500", "1000"],
+      "availability": ["08.00 AM - 11.00 AM", "02.00 PM - 05.00 PM"],
+      "location": ["Dhanmondi", "Mohammadpur"],
+      "nid_no": "9876543211012",
+      "address": "56/2, Sultangonj,Rayer Bazar,Dhaka",
+      "dob": "1995-05-20",
+      "gender": "female",
+      "education": "SSC pass"
+    },
+    {
+      "id": "6",
+      "name": "mini roy",
+      "email": "mini@gmail.com",
+      "pass": "mini123",
+      "phone": "01301495100",
+      "img": "/images/maid/6.jpg",
+      "role": "maid",
+      "experience": "5 year",
+      "task": ["cloth_washing", "dish_washing"],
+      "salary": ["1000", "1000"],
+      "availability": [
+        "08.00 AM - 11.00 AM",
+        "11:00 AM - 02.00 PM",
+        "02.00 PM - 05.00 PM"
+      ],
+      "location": ["Savar", "Uttara"],
+      "nid_no": "9876578911012",
+      "address": "98/2,Uttara sector 2,Dhaka",
+      "dob": "1993-05-20",
+      "gender": "female",
+      "education": "SSC pass"
+    },
+    {
+      "id": "7",
+      "name": "minikkhi roy",
+      "email": "minikkhi@gmail.com",
+      "pass": "minikkhi123",
+      "phone": "01789695100",
+      "img": "/images/maid/7.jpg",
+      "role": "maid",
+      "experience": "7 year",
+      "task": ["cloth_washing", "dish_washing"],
+      "salary": ["1000", "1000"],
+      "availability": ["08.00 AM - 11.00 AM", "02.00 PM - 05.00 PM"],
+      "location": ["Dhanmondi", "Uttara"],
+      "nid_no": "1234578911012",
+      "address": "74/9,Uttara sector 2,Dhaka",
+      "dob": "1993-05-20",
+      "gender": "female",
+      "education": "SSC pass"
+    }
+  ],
+  "driver": [
+    {
+      "id": "8",
+      "name": "hasan mahmud",
+      "email": "hasan@gmail.com",
+      "pass": "hasan123",
+      "phone": "01428596411",
+      "img": "/images/driver/1.jpg",
+      "experience": 112,
+      "vehicle_type": "car",
+      "salary": "15000",
+      "location": ["Dhanmondi", "Mohammadpur"],
+      "nid_no": "1234567890111",
+      "address": "116/3,mirpur 10,Dhaka",
+      "dob": "1995-05-20",
+      "gender": "male",
+      "education": "HSC pass",
+      "driving license": "DD-123456789"
+    },
+    {
+      "id": "9",
+      "name": "monir mahmud",
+      "email": "monir@gmail.com",
+      "pass": "monir123",
+      "phone": "01789106411",
+      "img": "/images/driver/2.jpg",
+      "experience": 15,
+      "vehicle_type": "car",
+      "salary": "20000",
+      "location": ["Gulshan", "Savar"],
+      "nid_no": "1234567890200",
+      "address": "16/3,savar 10,Dhaka",
+      "dob": "1985-05-20",
+      "gender": "male",
+      "education": "HSC pass",
+      "driving license": "DD-123445789"
+    },
+    {
+      "id": "10",
+      "name": "opar mahmud",
+      "email": "opar@gmail.com",
+      "pass": "opar123",
+      "phone": "01757259411",
+      "img": "/images/driver/3.jpg",
+      "experience": 32,
+      "vehicle_type": "car",
+      "salary": "12000",
+      "location": ["MOtijheel", "Uttara"],
+      "nid_no": "1234567300111",
+      "address": "116/3,uttara 10,Dhaka",
+      "dob": "1982-05-20",
+      "gender": "male",
+      "education": "HSC pass",
+      "driving license": "DD-213456789"
+    },
+
+    {
+      "id": "11",
+      "name": "istiak mahmud",
+      "email": "istiak@gmail.com",
+      "pass": "istiak123",
+      "phone": "01767694884",
+      "img": "/images/driver/4.jpg",
+      "experience": 112,
+      "vehicle_type": "car",
+      "salary": "20000",
+      "location": ["Mirpur", "Banani"],
+      "nid_no": "5432167845671",
+      "address": "52/4,dhanmondi 9,Dhaka",
+      "dob": "1993-05-20",
+      "gender": "male",
+      "education": "Diploma",
+      "driving license": "DD-124866789"
+    }
+  ],
+
+  "babysitter": [
+    {
+      "id": "12",
+      "name": "Mayesha Tasnim",
+      "email": "mayesha@gmail.com",
+      "pass": "mayesha123",
+      "phone": "01111111111",
+      "img": "/images/babysitter/1.jpg",
+      "experience": 24,
+      "age_group_preferences": ["infants", "toddlers", "school-age"],
+      "availability": [
+        {
+          "day": "Sunday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Monday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Tuesday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Wednesday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Thursday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Friday",
+          "slots": ["afternoon"]
+        },
+        {
+          "day": "Saturday",
+          "slots": ["evening"]
+        }
+      ],
+      "location": ["Dhanmondi"],
+      "religion": "Muslim",
+      "nid_no": "123456789011",
+      "address": "123, Babysitter Lane, Dhanmondi",
+      "dob": "1995-05-20",
+      "gender": "female",
+      "education": "HSC pass",
+      "certifications": ["CPR", "First Aid"],
+      "languages_spoken": ["English", "Bengali"],
+      "special_skills": ["arts and crafts", "storytelling"],
+      "salary": "10000"
+    },
+    {
+      "id": "13",
+      "name": "Humayra Akter",
+      "email": "humayra@gmail.com",
+      "pass": "humayra123",
+      "phone": "01222222222",
+      "img": "/images/babysitter/2.jpg",
+      "experience": 23,
+      "age_group_preferences": ["infants", "toddlers", "school-age"],
+      "availability": [
+        {
+          "day": "Sunday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Monday",
+          "slots": ["afternoon"]
+        },
+        {
+          "day": "Tuesday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Wednesday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Thursday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Friday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Saturday",
+          "slots": ["evening"]
+        }
+      ],
+      "location": ["Gulshan", "Banani"],
+      "religion": "Muslim",
+      "nid_no": "123456789012",
+      "address": "165, dark ally, Gulshan",
+      "dob": "1996-04-25",
+      "gender": "female",
+      "education": "HSC pass",
+      "certifications": ["CPR", "First Aid"],
+      "languages_spoken": ["English", "Bengali"],
+      "special_skills": ["arts and crafts", "storytelling"],
+      "salary": "20000"
+    },
+    {
+      "id": "14",
+      "name": "Nila jahan",
+      "email": "nila@gmail.com",
+      "pass": "nailaa123",
+      "phone": "01333333333",
+      "img": "/images/babysitter/3.jpg",
+      "experience": 20,
+      "age_group_preferences": ["infants", "toddlers"],
+      "availability": [
+        {
+          "day": "Sunday",
+          "slots": ["morning", "evening"]
+        },
+        {
+          "day": "Monday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Tuesday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Wednesday",
+          "slots": ["morning", "evening"]
+        },
+        {
+          "day": "Thursday",
+          "slots": ["morning", "evening"]
+        },
+        {
+          "day": "Friday",
+          "slots": ["afternoon"]
+        },
+        {
+          "day": "Saturday",
+          "slots": ["evening"]
+        }
+      ],
+      "location": ["Mohammadpur", "Savar"],
+      "religion": "Muslim",
+      "nid_no": "123456789013",
+      "address": "56/a, Babysitter Lane, Banani",
+      "dob": "1999-05-20",
+      "gender": "female",
+      "education": "BSC pass",
+      "certifications": ["CPR", "First Aid"],
+      "languages_spoken": ["English", "Bengali"],
+      "special_skills": ["storytelling"],
+      "salary": "5000"
+    },
+    {
+      "id": "15",
+      "name": "Jhuma Begum",
+      "email": "jhuma@gmail.com",
+      "pass": "jhuma123",
+      "phone": "01444444444",
+      "img": "/images/babysitter/4.jpg",
+      "experience": 30,
+      "age_group_preferences": ["infants", "toddlers"],
+      "availability": [
+        {
+          "day": "Sunday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Monday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Tuesday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Wednesday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Thursday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Friday",
+          "slots": ["evening", "afternoon"]
+        },
+        {
+          "day": "Saturday",
+          "slots": ["evening", "afternoon"]
+        }
+      ],
+      "location": ["Mirpur"],
+      "religion": "Muslim",
+      "nid_no": "123456789014",
+      "address": "471, Babysitter Lane, Mirpur-12",
+      "dob": "2000-08-10",
+      "gender": "female",
+      "education": "HSC pass",
+      "certifications": ["CPR", "First Aid"],
+      "languages_spoken": ["English", "Bengali"],
+      "special_skills": ["arts and crafts", "storytelling"],
+      "salary": "20000"
+    },
+    {
+      "id": "16",
+      "name": "Halima Akter",
+      "email": "halima@gmail.com",
+      "pass": "halima123",
+      "phone": "01555555555 ",
+      "img": "/images/babysitter/5.jpg",
+      "experience": 14,
+      "age_group_preferences": ["toddlers", "school-age"],
+      "availability": [
+        {
+          "day": "Sunday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Monday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Tuesday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Wednesday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Thursday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Friday",
+          "slots": ["evening"]
+        },
+        {
+          "day": "Saturday",
+          "slots": ["afternoon"]
+        }
+      ],
+      "location": ["Savar", "Motijheel"],
+      "religion": "Muslim",
+      "nid_no": "123456789015",
+      "address": "123, raod-13, Banani",
+      "dob": "2001-05-20",
+      "gender": "female",
+      "education": "HSC pass",
+      "certifications": ["CPR", "First Aid"],
+      "languages_spoken": ["English", "Bengali"],
+      "special_skills": ["arts and crafts", "storytelling"],
+      "salary": "10000"
+    },
+    {
+      "id": "17",
+      "name": "Khatima Begum",
+      "email": "khatima@gmail.com",
+      "pass": "khatima123",
+      "phone": "01666666666",
+      "img": "/images/babysitter/6.jpg",
+      "experience": 24,
+      "age_group_preferences": ["toddlers", "school-age"],
+      "availability": [
+        {
+          "day": "Sunday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Monday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Tuesday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Wednesday",
+          "slots": ["morning", "evening"]
+        },
+        {
+          "day": "Thursday",
+          "slots": ["morning", "evening"]
+        },
+        {
+          "day": "Friday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Saturday",
+          "slots": ["evening"]
+        }
+      ],
+      "location": ["Motijheel"],
+      "religion": "Muslim",
+      "nid_no": "123456789016",
+      "address": "123, Babysitter Villa, Motijheel",
+      "dob": "1995-10-22",
+      "gender": "female",
+      "education": "HSC pass",
+      "certifications": ["First Aid"],
+      "languages_spoken": ["English", "Bengali"],
+      "special_skills": ["arts and crafts"],
+      "salary": "11000"
+    },
+    {
+      "id": "18",
+      "name": "Roza Akter",
+      "email": "roza@gmail.com",
+      "pass": "roza123",
+      "phone": "01777777777",
+      "img": "/images/babysitter/7.jpg",
+      "experience": 12,
+      "age_group_preferences": ["infants", "toddlers"],
+      "availability": [
+        {
+          "day": "Sunday",
+          "slots": ["morning", "afternoon", "evening"]
+        },
+        {
+          "day": "Monday",
+          "slots": ["morning", "afternoon", "evening"]
+        },
+        {
+          "day": "Tuesday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Wednesday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Thursday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Friday",
+          "slots": ["afternoon", "evening"]
+        },
+        {
+          "day": "Saturday",
+          "slots": ["evening"]
+        }
+      ],
+      "location": ["Gulshan", "Banani"],
+      "religion": "Muslim",
+      "nid_no": "123456789017",
+      "address": "22/a, road-12, Banasree",
+      "dob": "1995-05-20",
+      "gender": "female",
+      "education": "HSC pass",
+      "certifications": ["CPR", "First Aid"],
+      "languages_spoken": ["English", "Bengali"],
+      "special_skills": ["arts and crafts", "storytelling"],
+      "salary": "13000"
+    }
+  ],
+  "vanTruck": [
+    {
+      "id": "19",
+      "name": "shakil mahmud",
+      "email": "shakil@gmail.com",
+      "pass": "shakil123",
+      "phone": "01567899665",
+      "img": "/images/vanTruck/1.jpg",
+      "experience": 90,
+      "vehicle_type": ["truck", "van"],
+      "availability": [
+        {
+          "day": "Sunday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Monday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Tuesday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Wednesday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Thursday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Friday",
+          "slots": ["afternoon"]
+        },
+        {
+          "day": "Saturday",
+          "slots": ["evening"]
+        }
+      ],
+      "salary per km": "200",
+      "location": ["Dhanmondi", "Mohammadpur", "Mirpur", "Motijheel"],
+      "nid_no": "1011121314151",
+      "address": "116/3,kajipara,mirpur,Dhaka",
+      "dob": "1980-06-20",
+      "gender": "male",
+      "education": "HSC pass",
+      "driving license": "DD-987654321"
+    },
+    {
+      "id": "20",
+      "name": "ajij mahmud",
+      "email": "ajij@gmail.com",
+      "pass": "ajij123",
+      "phone": "01566159123",
+      "img": "/images/vanTruck/2.jpg",
+      "experience": 56,
+      "vehicle_type": ["van"],
+      "availability": [
+        {
+          "day": "Sunday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Monday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Tuesday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Wednesday",
+          "slots": ["afternoon"]
+        },
+        {
+          "day": "Thursday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Friday",
+          "slots": ["none"]
+        },
+        {
+          "day": "Saturday",
+          "slots": ["evening"]
+        }
+      ],
+      "salary per km": "300",
+      "location": [
+        "Dhanmondi",
+        "Mohammadpur",
+        "Mirpur",
+        "Motijheel",
+        "Gulshan",
+        "Banani"
+      ],
+      "nid_no": "1011121341811",
+      "address": "116/3,motijheel road 11,Dhaka",
+      "dob": "1985-06-20",
+      "gender": "male",
+      "education": "HSC pass",
+      "driving license": "DD-757259665"
+    },
+    {
+      "id": "21",
+      "name": "raju haq",
+      "email": "raju@gmail.com",
+      "pass": "raju123",
+      "phone": "01715176041",
+      "img": "/images/vanTruck/3.jpg",
+      "experience": 45,
+      "vehicle_type": ["truck"],
+      "availability": [
+        {
+          "day": "Sunday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Monday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Tuesday",
+          "slots": ["none"]
+        },
+        {
+          "day": "Wednesday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Thursday",
+          "slots": ["none"]
+        },
+        {
+          "day": "Friday",
+          "slots": ["afternoon"]
+        },
+        {
+          "day": "Saturday",
+          "slots": ["evening"]
+        }
+      ],
+      "salary per km": "400",
+      "location": ["Uttara", "Savar"],
+      "nid_no": "1048114314151",
+      "address": "116/3,kajipara,mirpur,Dhaka",
+      "dob": "1980-06-20",
+      "gender": "male",
+      "education": "HSC pass",
+      "driving license": "DD-988114321"
+    },
+    {
+      "id": "22",
+      "name": "sabbir haq",
+      "email": "sabbir@gmail.com",
+      "pass": "sabbir123",
+      "phone": "01715149041",
+      "img": "/images/vanTruck/4.jpg",
+      "experience": 45,
+      "vehicle_type": ["truck", "van"],
+      "availability": [
+        {
+          "day": "Sunday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Monday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Tuesday",
+          "slots": ["none"]
+        },
+        {
+          "day": "Wednesday",
+          "slots": ["morning", "night"]
+        },
+        {
+          "day": "Thursday",
+          "slots": ["none"]
+        },
+        {
+          "day": "Friday",
+          "slots": ["afternoon"]
+        },
+        {
+          "day": "Saturday",
+          "slots": ["evening", "night"]
+        }
+      ],
+      "salary per km": "500",
+      "location": ["Uttara", "Savar", "Motijheel"],
+      "nid_no": "1048755314151",
+      "address": "116/3,motijheel 2,Dhaka",
+      "dob": "1980-06-20",
+      "gender": "male",
+      "education": "HSC pass",
+      "driving license": "DD-988183321"
+    },
+    {
+      "id": "23",
+      "name": "raju haq",
+      "email": "raju@gmail.com",
+      "pass": "raju123",
+      "phone": "01714996041",
+      "img": "/images/vanTruck/5.jpg",
+      "experience": 55,
+      "vehicle_type": ["truck"],
+      "availability": [
+        {
+          "day": "Sunday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Monday",
+          "slots": ["morning", "afternoon"]
+        },
+        {
+          "day": "Tuesday",
+          "slots": ["none"]
+        },
+        {
+          "day": "Wednesday",
+          "slots": ["morning"]
+        },
+        {
+          "day": "Thursday",
+          "slots": ["none"]
+        },
+        {
+          "day": "Friday",
+          "slots": ["night"]
+        },
+        {
+          "day": "Saturday",
+          "slots": ["night"]
+        }
+      ],
+      "salary per km": "600",
+      "location": ["Uttara", "Savar"],
+      "nid_no": "1048114101112",
+      "address": "5/A,kajipara,mirpur,Dhaka",
+      "dob": "1980-06-20",
+      "gender": "male",
+      "education": "HSC pass",
+      "driving license": "DD-988454321"
+    }
+  ]
+}
