@@ -1,0 +1,68 @@
+.dropdown-button {
+  display: inline-block;
+  height: 58px;
+  left: 278px;
+  position: absolute;
+  width: 214px;
+}
+
+.button {
+  border-radius: 20px;
+  height: 50px;
+  font-size: 16px;
+  color: #f0f0f0;
+}
+
+.dropdown-menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins-Bold", Helvetica;
+  position: absolute;
+  border-radius: 20px;
+  top: 100%;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  display: block;
+  background-color: #2e1115;
+  border: 1px solid #ccc;
+  border-top: none;
+  color: #f0f0f0;
+}
+
+.dropdown-menu li {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.dropdown-menu li:hover {
+  background-color: #f0f0f0;
+}
+
+/* .author-btn {
+  height: 58px;
+  left: 278px;
+  position: absolute;
+  top: 596px;
+  width: 214px;
+}
+.overlap-2 {
+  background-color: #2e1115;
+  border-radius: 20px;
+  height: 58px;
+  position: relative;
+  width: 212px;
+}
+.text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+} */
